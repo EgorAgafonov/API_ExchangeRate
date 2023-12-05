@@ -4,10 +4,10 @@ from datetime import *
 from settings import *
 from colorama import Style, Back, Fore
 
-filename = 'tests/logs/logs.txt'
+filename = 'logs/logs.txt'
 
 
-@pytest.fixture(scope='class', autouse=True)
+@pytest.fixture(scope='class')
 def duration_of_collection(request, filename=filename):
     start_time = datetime.now()
     print(f'\n1/3 START COLLECTION:\nНачало выполнения тестовой коллекции: {start_time} сек.')
@@ -28,22 +28,23 @@ def duration_of_collection(request, filename=filename):
 @pytest.fixture(scope='function', autouse=True)
 def duration_of_test(request):
     start_time = datetime.now()
-    print(f'\n* Начало выполнения тестовой функции: {start_time} сек. *')
+    print(Fore.BLACK + Style.DIM + Back.WHITE + f'<Начало выполнения тестовой функции: {start_time} сек.>')
     yield
     end_time = datetime.now()
-    print(f'** Окончание выполнения тестовой функции: {end_time} сек. **')
-    print(f"    ВСЕГО продолжительность теста {request.function.__name__}: {end_time - start_time} сек.\n")
+    print(Fore.BLACK + Style.DIM + Back.WHITE + f'>Окончание выполнения тестовой функции: {end_time} сек.<')
+    print(Fore.BLACK + Style.DIM + Back.YELLOW + f"ВСЕГО продолжительность теста {request.function.__name__}: "
+                                                 f"{end_time - start_time} сек.")
 
 
 @pytest.fixture(scope='function', autouse=True)
 def introspection_of_test(request):
     yield
-    print(f'\n- Имя теста (тестируемой функции): {request.function.__name__}.')
-    print(f'- Имя коллекции (тестового класса): {request.cls}.')
-    print(f'- Имя фикстуры: {request.fixturename}.')
+    print(f'\n- Имя теста (тестируемой функции): {request.function.__name__};')
+    print(f'- Имя коллекции (тестового класса): {request.cls};')
+    print(f'- Имя фикстуры: {request.fixturename};')
     print(f'- Область видимости фикстуры: {request.scope}.')
-    print(f'- Относительный путь к тестовому модулю: {request.module.__name__}.')
-    print(f'- Абсолютный путь к тестовому модулю: {request.fspath}.')
+    print(f'- Относительный путь к тестовому модулю: {request.module.__name__};')
+    print(f'- Абсолютный путь к тестовому модулю: {request.fspath};')
     if request.cls:
         return f"\n У теста(тестируемой функции) {request.function.__name__} есть коллекция (тестовый класс).\n"
     else:
@@ -51,7 +52,7 @@ def introspection_of_test(request):
 
 
 @pytest.fixture(scope='function', autouse=True)
-def log_of_test(request, filename='tests/logs/logs.txt'):
+def log_of_test(request, filename='logs/logs.txt'):
     start_time = datetime.now()
     yield
     end_time = datetime.now()
@@ -90,6 +91,7 @@ def special_chars():
 
 def digits():
     return '1234567890'
+
 
 def latin_chars():
     return 'abcdefghijklmnopqrstwxyz'

@@ -1,8 +1,5 @@
-import time
-
 from exchange_app import ExchangeRateAPI
-from time import asctime
-
+from conftest import *
 
 ER = ExchangeRateAPI()
 

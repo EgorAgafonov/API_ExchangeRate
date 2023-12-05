@@ -18,7 +18,7 @@ class TestExchangeRatePositive:
         assert result["result"] == "success", (f"\nЗапрос отклонен, код состояния ответа{status}. Проверьте параметры "
                                                f"запроса.")
         assert result["base_code"] == "USD"
-        assert result['conversion_rates']["USD"] < result['conversion_rates']['RUB'], "Ущипните себя и всё проверьте ;)"
+        assert result['conversion_rates']["USD"] < result['conversion_rates']['RUB'], "Ущипните себя и всё проверьте;)"
 
 
 

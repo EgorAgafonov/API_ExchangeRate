@@ -4,6 +4,7 @@ from settings import api_key_valid
 
 a = "https://v6.exchangerate-api.com/v6/b4225086daa983f4e12ee736/latest/"
 
+
 class ExchangeRateAPI:
     def __init__(self):
         self.base_url = "https://v6.exchangerate-api.com/v6/"
@@ -24,14 +25,14 @@ class ExchangeRateAPI:
 
         return status, result
 
-    def conversion_of_currency_pair(self, base_code: str, target_code: str, amount=None):
+    def conversion_of_currency_pair(self, amount: float, base_code: str, target_code: str) -> object:
         """"""
-        if amount is None:
+
+        if not amount:
             response = requests.get(self.base_url + api_key_valid + "pair/" + f"{base_code}/" + f"{target_code}")
-        elif amount == float or int:
-            response = requests.get(self.base_url + api_key_valid + "pair/" + f"{base_code}/" + f"{target_code}/" + str(amount))
         else:
-            pass
+            response = requests.get(self.base_url + api_key_valid + "pair/" + f"{base_code}/" + f"{target_code}/"
+                                    + str(amount))
 
         status = response.status_code
         result = ""

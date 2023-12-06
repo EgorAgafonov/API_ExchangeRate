@@ -34,6 +34,7 @@ def duration_of_test(request):
     print(Fore.BLACK + Style.DIM + Back.WHITE + f'>Окончание выполнения тестовой функции: {end_time} сек.<')
     print(Fore.BLACK + Style.DIM + Back.YELLOW + f"ВСЕГО продолжительность теста {request.function.__name__}: "
                                                  f"{end_time - start_time} сек.")
+    print(Fore.RESET + Style.RESET_ALL + Back.RESET + f"\n")
 
 
 @pytest.fixture(scope='function', autouse=True)

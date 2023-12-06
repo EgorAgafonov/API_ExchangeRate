@@ -20,6 +20,20 @@ class TestExchangeRatePositive:
         assert result["base_code"] == "USD"
         assert result['conversion_rates']["USD"] < result['conversion_rates']['RUB'], "Ущипните себя и всё проверьте;)"
 
+    def test_pair_conversion_wht_amount(self):
+        """Тест проверки отправки GET-запроса для предоставления сведений о соотношении курса целевой валюты по
+        отношению к базовой валюте(требуемой) пары валют -  текущем курсе доллара США (USD) по отношению
+         к другим валютам. Валидация теста успешна в случае, если ответ сервера содержит положительный кода состояния
+        (200), ответ содержит JSON-объект с данными об актуальных обменных курсах валют по отношению к 1$(USD)"""
+
+        status, result = ER.conversion_of_currency_pair("USD", "RUB", 2)
+
+        print(result)
+
+
+
+
+
 
 
 

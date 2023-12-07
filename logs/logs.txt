@@ -1037,3 +1037,803 @@
 Окончание выполнения тестовой функции: 2023-12-07 14:55:56.565656 сек. **
 ИТОГО продолжительность теста test_exchange_rates_USD_positive: 0:00:00.251441 сек.
 
+
+Начало выполнения тестовой функции: 2023-12-07 15:54:59.700911 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_positive.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 15:54:59.981414 сек. **
+ИТОГО продолжительность теста test_exchange_rates_positive: 0:00:00.280503 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 15:54:59.983387 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_positive.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 15:55:00.198762 сек. **
+ИТОГО продолжительность теста test_exchange_rates_positive: 0:00:00.215375 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 15:59:38.968329 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 15:59:39.281375 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.313046 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 15:59:39.286380 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 15:59:39.546449 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.260069 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:00:20.596705 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_positive.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_positive.TestExchangeRatePositive'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_positive.
+Окончание выполнения тестовой функции: 2023-12-07 16:00:20.871651 сек. **
+ИТОГО продолжительность теста test_exchange_rates_positive: 0:00:00.274946 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:00:39.517614 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_exchange.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_positive.TestExchangeRatePositive'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_positive.
+Окончание выполнения тестовой функции: 2023-12-07 16:00:39.700614 сек. **
+ИТОГО продолжительность теста test_pair_conversion_exchange: 0:00:00.183000 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:01:15.408264 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:01:15.801501 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.393237 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:01:15.809528 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:01:15.987740 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.178212 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:02:53.849093 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:02:54.053130 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.204037 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:02:54.057131 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:02:54.215515 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.158384 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:04:31.463088 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:04:31.780067 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.316979 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:04:31.783058 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:04:32.041372 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.258314 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:04:32.043372 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:04:32.318654 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.275282 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:06:22.740490 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:06:22.900806 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.160316 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:06:22.904807 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:06:23.104995 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.200188 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:06:23.108997 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:06:23.401344 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.292347 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:07:49.402790 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:07:49.627221 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.224431 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:07:49.632196 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:07:49.905916 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.273720 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:07:49.907915 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:07:50.232765 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.324850 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:09:49.464141 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:09:49.725069 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.260928 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:09:49.729064 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:09:49.931827 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.202763 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:09:49.933828 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:09:50.267913 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.334085 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:10:58.060365 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:10:58.269648 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.209283 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:10:58.273649 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:10:58.477119 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.203470 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:10:58.479119 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:10:58.699804 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.220685 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:11:53.555092 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:11:53.795828 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.240736 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:11:53.799829 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:11:54.040988 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.241159 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:11:54.042987 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:11:54.389832 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.346845 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:14:16.632663 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:14:17.004499 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.371836 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:14:17.008499 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:14:17.265316 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.256817 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:14:17.267318 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:14:17.603190 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.335872 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:15:42.824961 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:15:43.040469 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.215508 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:15:43.044541 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:15:43.301962 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.257421 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:15:43.303962 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:15:43.635828 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.331866 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:18:37.254006 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:18:37.513710 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.259704 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:18:37.518710 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:18:37.736872 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.218162 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:18:37.738872 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:18:38.044153 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.305281 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:19:24.906378 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:19:25.105904 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.199526 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:19:25.109905 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:19:25.275537 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.165632 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:19:25.277537 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:19:25.468533 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.190996 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:18.441314 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:18.654564 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.213250 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:18.656564 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:18.829210 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.172646 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:18.831211 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:19.016687 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.185476 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:19.018687 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:19.205749 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.187062 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:19.207750 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:19.391655 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.183905 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:19.393655 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:19.561428 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.167773 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:19.563427 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:19.715334 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.151907 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:19.718365 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:19.895061 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.176696 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:49.727630 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:49.930836 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.203206 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:49.934836 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:50.087635 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.152799 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:50.089635 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:50.512712 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.423077 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:50.515699 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:50.716364 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.200665 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:50.720365 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:50.889418 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.169053 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:50.893433 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:51.173854 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.280421 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:51.176855 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:51.383356 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.206501 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:21:51.385356 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:21:51.554780 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.169424 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:08.752291 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:09.017809 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.265518 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:09.021810 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:09.171425 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.149615 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:09.174425 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:09.460336 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.285911 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:09.464339 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:09.683652 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.219313 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:09.686653 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:09.895632 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.208979 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:09.898622 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:10.083019 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.184397 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:10.086026 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:10.296223 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.210197 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:23:10.298223 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:23:10.467575 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.169352 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:23.459010 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:23.690155 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.231145 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:23.694156 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:23.877872 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.183716 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:23.879873 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:24.028378 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.148505 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:24.030378 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:24.225922 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.195544 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:24.227918 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:24.387389 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.159471 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:24.389977 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:24.541153 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.151176 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:24.543142 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:24.715779 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.172637 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:27:24.717763 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:27:24.945580 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.227817 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:57.412290 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:57.669353 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.257063 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:57.678402 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:57.843505 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.165103 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:57.845502 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:58.008524 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.163022 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:58.010527 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:58.221948 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.211421 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:58.224947 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:58.399942 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.174995 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:58.401943 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:58.652160 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.250217 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:58.655160 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:58.843000 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.187840 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-07 16:37:58.845028 сек. *
+- Имя теста (тестируемой функции): test_exchange_rates_api_key_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-07 16:37:59.084881 сек. **
+ИТОГО продолжительность теста test_exchange_rates_api_key_negative: 0:00:00.239853 сек.
+

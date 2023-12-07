@@ -7,7 +7,7 @@ ER = ExchangeRateAPI()
 class TestExchangeRatePositive:
     """Класс с коллекцией позитивных тестов для REST API сервиса https://www.exchangerate-api.com."""
 
-    def test_exchange_rates_USD_positive(self, api_key=api_key_valid, base_code='USD'):
+    def test_exchange_rates_positive(self, api_key=api_key_valid, base_code='USD'):
         """Тест проверки отправки GET-запроса для предоставления сведений о текущих курсах мировых валют по отношению к
         единице выбранной базовой валюты (здесь: доллар США (USD)). Валидация теста успешна в случае, если ответ сервера
         содержит положительный HTTP-код состояния (200), ответ содержит JSON-объект с данными об актуальных обменных

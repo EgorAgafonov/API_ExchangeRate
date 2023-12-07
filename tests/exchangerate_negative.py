@@ -1,22 +1,33 @@
-import json
-import requests
-from settings import api_key_invalid
+import pytest
+from settings import *
+from conftest import *
 from exchange_app import ExchangeRateAPI
 
-
 ER = ExchangeRateAPI()
+
 
 class TestExchangeRateNegative:
     """Класс с коллекцией негативных тестов для REST API сервиса https://www.exchangerate-api.com."""
 
-    def test_exchange_rates_negative(self):
-        """."""
+    @pytest.mark.parametrize("api_key", [api_key_invalid,
+                                         api_key_expired,
+                                         special_chars(),
+                                         russian_chars(),
+                                         russian_chars().upper(),
+                                         chinese_chars(),
+                                         strings_generator(255),
+                                         digits()], ids=['api key_invalid', 'api key_expired', 'special chars',
+                                                         'cyrillic chars', 'CYRILLIC CHARS', '255 symbols name',
+                                                         'chinese chars' 'string=255', 'digits'])
+    # @pytest.mark.parametrize("age", ["1", 23.45, -1], ids=['string_age', 'float_age', 'negative_age'])
+    def test_exchange_rates_positive(self, api_key, base_code='USD'):
+        """Негативный тест проверки GET-запроса для предоставления сведений о текущих курсах мировых валют по отношению
+        к единице выбранной базовой валюты (здесь: доллар США (USD)). С помощью фикстуры parametrize в параметры запроса
+        передаются заведомо не верифицированные значения. Валидация негативного теста успешна в случае, если ответ
+        сервера на запрос содержит отрицательный HTTP-код состояния (400), ответ содержит JSON-объект с данными о
+       причине(exception) отказа сервера в ответе."""
 
-        status, result = ER.get_exchange_rate("USD")
-        print(f"\n{result}")
+        status, result = ER.get_exchange_rate(api_key, base_code)
 
-        assert status == 200, f"\nЗапрос отклонен, код состояния ответа{status}. Проверьте параметры запроса."
-        assert result["result"] == "success", (f"\nЗапрос отклонен, код состояния ответа{status}. Проверьте параметры "
-                                               f"запроса.")
-        assert result["base_code"] == "USD"
-        assert result['conversion_rates']["USD"] < result['conversion_rates']['RUB'], "Ущипните себя и всё проверьте;)"
+        assert status == 404
+        assert result["error-type"] == 'invalid-key'

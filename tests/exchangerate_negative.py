@@ -19,18 +19,25 @@ class TestExchangeRateNegative:
                                          digits()], ids=['api key_invalid', 'api key_expired', 'special chars',
                                                          'cyrillic chars', 'CYRILLIC CHARS',
                                                          'chinese chars', 'string=255', 'digits'])
-    def test_exchange_rates_api_key_negative(self, api_key, base_code='USD'):
+    @pytest.mark.parametrize("base_currency", [api_key_invalid,
+    def test_exchange_rates_negative(self, api_key, base_currency):
         """Негативный тест проверки GET-запроса для предоставления сведений о текущих курсах мировых валют по отношению
-        к единице выбранной базовой валюты (здесь: доллар США (USD)). С помощью фикстуры parametrize в параметры запроса
-        передаются заведомо не верифицированные значения. Валидация негативного теста успешна в случае, если статус
-        ответа сервера на запрос(status) содержит отрицательный код состояния со стороны клиента (403 или 404), для
-        кода 403 ответ содержит JSON-объект с данными о причине(exception) отказа сервера в ответе."""
+        к единице выбранной базовой валюты (base_currency). С помощью фикстуры parametrize в параметры запроса
+        передаются заведомо не верифицированные значения api_key и base_currency. Валидация негативного теста успешна в
+        случае, если статус ответа сервера на запрос(status) содержит отрицательный код (403 или 404), ответ с кодом 403
+        содержит JSON-объект с данными о причине(exception) отказа сервера."""
 
-        status, result = ER.get_exchange_rate(api_key, base_code)
+        status, result = ER.get_exchange_rate(api_key, base_currency)
 
-        print(f"\n{status}")
-        print(f"\n{result}")
-        assert status == 403 or 404
+        if status == 403:
+            print(f"\n{status}")
+            print(f"{result['error-type']}")
+            assert status == 403
+            assert result['error-type'] == "invalid-key" or 'inactive-account'
+        else:
+            print(f"\n{result}")
+            assert status == 404
+
 
 
 

@@ -44,7 +44,7 @@ class TestExchangeRatePositive:
         если ответ сервера содержит положительный HTTP-код состояния (200), ответ содержит JSON-объект с
         ключом [conversion_result], значением которого является сумма продажи целевой валюты."""
 
-        amount_of_exchange = 1100
+        amount_of_exchange = 100
         status, result = ER.conversion_of_currency_pair('USD', 'RUB', amount_of_exchange)
 
         assert status == 200, f"\nЗапрос отклонен, код состояния ответа{status}. Проверьте параметры запроса."

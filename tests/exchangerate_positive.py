@@ -1,5 +1,6 @@
 from exchange_app import ExchangeRateAPI
 from conftest import *
+from settings import *
 
 ER = ExchangeRateAPI()
 

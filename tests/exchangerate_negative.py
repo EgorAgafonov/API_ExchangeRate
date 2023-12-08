@@ -9,8 +9,9 @@ ER = ExchangeRateAPI()
 class TestExchangeRateNegative:
     """Класс с коллекцией негативных тестов для REST API сервиса https://www.exchangerate-api.com."""
 
-    @pytest.mark.parametrize("base_currency", [strings_generator(255),
-                                               strings_generator(1000),
+    # 1
+    @pytest.mark.one
+    @pytest.mark.parametrize("base_currency", [strings_generator(255), strings_generator(1000),
                                                special_chars(),
                                                russian_chars(),
                                                russian_chars().upper(),
@@ -51,6 +52,8 @@ class TestExchangeRateNegative:
             print(f"\n{result}")
             assert status == 404
 
+    # 2
+    @pytest.mark.two
     @pytest.mark.parametrize("target_code", ['', 'a', 'ab', 'abc', 'a'.upper(), 'ab'.upper(), 'abc'.upper(),
                                              strings_generator(255), strings_generator(1000), special_chars(),
                                              russian_chars(), russian_chars().upper(), chinese_chars(), digits(),

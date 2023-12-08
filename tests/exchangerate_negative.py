@@ -51,14 +51,22 @@ class TestExchangeRateNegative:
             print(f"\n{result}")
             assert status == 404
 
-    @pytest.mark.parametrize("target_code", [strings_generator(255),
+    @pytest.mark.parametrize("target_code", ['',
+                                             'a',
+                                             'ab',
+                                             'abc',
+                                             'a'.upper(),
+                                             'ab'.upper(),
+                                             'abc'.upper(),
+
+                                             strings_generator(255),
                                              strings_generator(1000),
                                              special_chars(),
                                              russian_chars(),
                                              russian_chars().upper(),
                                              chinese_chars(),
                                              digits(),
-                                             '3.14'], ids=['string=255', 'string=1000', 'special chars',
+                                             '3.14'], ids=['empty string', 'one str symbol lower', '', string=255', 'string=1000', 'special chars',
                                                            'cyrillic chars', 'CYRILLIC CHARS', 'chinese chars',
                                                            'digits', '3.14(float)'])
     @pytest.mark.parametrize("base_code", [strings_generator(255),
@@ -72,25 +80,26 @@ class TestExchangeRateNegative:
                                                          'cyrillic chars', 'CYRILLIC CHARS', 'chinese chars',
                                                          'digits', '3.14(float)'])
     def test_pair_conversion_no_amount_negative(self, base_code, target_code):
-        """Тест проверки отправки GET-запроса для предоставления сведений об отношении обменного курса целевой валюты
-        (target_code) по отношению к одной единице базовой валюте(base_code). Валидация теста успешна в случае, если
-        ответ сервера содержит положительный HTTP-код состояния (200), ответ содержит JSON-объект со значением ключа
-        [conversion_rate] равным текущему курсу целевой валюты по отношению к единице базовой валюты."""
+        """Негативный тест отправки GET-запроса для предоставления сведений об отношении обменного курса целевой валюты
+        (target_code) по отношению к одной единице базовой валюте(base_code) без использования в запросе параметра
+        amount:str (path). С помощью фикстуры parametrize в параметры запроса передаются заведомо не верифицированные
+        значения переменных base_code и target_code. Валидация негативного теста успешна в случае, если статус ответа
+        (status) содержит отрицательный код состояния равный 400, 403 или 404, ответ с кодом
+        400 или 403 содержит JSON-объект с данными о причине(exception) отказа сервера."""
 
         status, result = ER.conversion_of_currency_pair(api_key_valid, base_code, target_code)
 
-        if status == 403:
+        if status == 400:
+            assert result['error-type'] == "malformed-request" or 'inactive-account'
             print(f"\n{status}")
             print(f"{result['error-type']}")
-            assert status == 403
+        elif status == 403:
             assert result['error-type'] == "malformed-request" or 'inactive-account'
-        elif status == 404:
+            print(f"\n{status}")
+            print(f"{result['error-type']}")
+        else:
+            assert status == 404
             print(f"\n{status}")
             print(f"\nОшибка 404 - сервер не может найти данные согласно запросу."
                   f"\nJSON объект с ключом ['error-type'] сервером не сформирован.")
-            assert status == 404
-        else:
-            print(f"\n{status}")
-            print(f"{result['error-type']}")
-            assert result['error-type'] == "malformed-request" or 'inactive-account'
-            assert status == 400
+

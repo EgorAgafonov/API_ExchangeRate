@@ -7127,3 +7127,2253 @@
 Окончание выполнения тестовой функции: 2023-12-08 15:36:59.413856 сек. **
 ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.231779 сек.
 
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:10.835155 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:11.047328 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.212173 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:11.051317 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:11.257592 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206275 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:11.259587 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:11.456521 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196934 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:11.458522 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:11.707744 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.249222 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:11.710971 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:11.916055 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.205084 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:11.918055 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:12.117907 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199852 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:12.119907 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:12.322109 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202202 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:12.324109 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:12.522820 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198711 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:12.524820 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:12.716707 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191887 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:12.718712 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:12.929669 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.210957 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:12.931668 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:13.122121 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190453 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:13.125121 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:13.322081 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196960 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:13.324082 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:13.529065 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.204983 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:13.532065 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:13.723734 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191669 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:13.725735 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:13.919309 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.193574 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:13.921427 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:14.125260 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203833 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:14.128210 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:14.338801 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.210591 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:14.340800 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:14.614123 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.273323 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:14.616123 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:14.812794 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196671 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:14.814793 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:15.380384 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.565591 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:15.383384 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:15.579134 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195750 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:15.581134 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:15.781665 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200531 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:15.783665 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:15.985002 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.201337 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:15.987001 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:16.241689 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.254688 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:16.244698 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:16.438745 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.194047 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:16.440745 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:16.638806 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198061 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:16.640799 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:16.831959 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191160 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:16.833959 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:17.039825 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.205866 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:17.041826 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:17.240098 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198272 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:17.242099 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:17.448981 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206882 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:17.450980 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:17.783658 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.332678 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:17.786664 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:17.980911 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.194247 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:17.982910 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:18.190719 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.207809 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:18.192719 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:18.383599 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190880 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:18.386598 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:18.606309 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.219711 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:18.608311 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:18.879177 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.270866 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:18.881178 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:19.082637 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.201459 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:19.091637 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:19.302024 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.210387 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:19.305025 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:19.507542 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202517 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:19.509542 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:19.690756 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.181214 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:19.692756 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:19.882009 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189253 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:19.884009 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:20.137449 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.253440 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:20.139475 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:20.357809 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.218334 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:20.359809 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:20.609523 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.249714 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:20.612523 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:20.803484 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190961 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:20.806483 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:21.001124 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.194641 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:21.003130 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:21.197859 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.194729 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:21.199860 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:21.400274 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200414 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:21.402275 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:21.602400 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200125 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:21.605398 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:21.804211 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198813 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:21.807211 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:22.003923 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196712 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:22.006922 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:22.272852 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.265930 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:22.274853 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:22.474572 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199719 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:22.476573 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:22.688496 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.211923 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:22.690496 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:22.892949 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202453 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:22.894947 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:23.087416 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.192469 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:23.090416 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:23.289533 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199117 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:23.291534 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:23.487109 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195575 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:23.489138 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:23.693532 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.204394 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:23.695539 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:23.900850 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.205311 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:23.902861 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:24.099356 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196495 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:24.101356 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:24.291866 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190510 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:24.293868 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:24.498531 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.204663 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:24.500532 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:24.691528 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190996 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:24.694529 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:24.901032 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206503 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:24.903037 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:25.102298 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199261 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:25.104299 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:25.310682 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206383 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:25.312683 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:25.509345 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196662 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:25.511345 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:25.721336 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.209991 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:25.723335 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:25.924431 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.201096 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:25.926431 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:26.121610 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195179 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:26.124610 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:26.321663 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197053 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:26.323663 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:26.523082 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199419 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:26.526079 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:26.721807 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195728 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:26.724811 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:26.920700 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195889 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:26.922700 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:27.125774 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203074 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:27.127784 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:27.330773 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202989 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:27.332772 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:27.532793 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200021 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:27.534795 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:27.740466 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.205671 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:27.742466 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:27.947291 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.204825 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:27.949291 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:28.183616 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.234325 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:28.185614 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:28.381446 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195832 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:28.383445 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:28.578988 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195543 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:28.580989 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:28.774112 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.193123 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:28.776113 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:28.963364 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.187251 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:28.965365 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:29.156403 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191038 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:29.158403 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:29.387976 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.229573 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:29.389977 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:29.594827 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.204850 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:29.596826 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:29.788774 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191948 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:29.790774 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:29.987742 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196968 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:29.989841 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:30.187272 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197431 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:30.189421 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:30.406718 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.217297 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:30.408862 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:30.617845 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.208983 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:30.619846 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:30.839116 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.219270 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:30.841113 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:31.040387 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199274 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:31.043388 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:31.241922 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198534 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:31.243922 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:31.446094 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202172 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:31.448098 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:31.651937 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203839 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:31.653932 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:31.881463 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.227531 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:31.883460 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:32.069271 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.185811 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:32.071607 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:32.269746 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198139 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:32.272747 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:32.480746 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.207999 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:32.482746 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:32.691857 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.209111 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:32.694856 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:32.881088 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.186232 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:32.883088 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:33.090530 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.207442 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:33.092530 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:33.295468 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202938 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:33.297468 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:33.510435 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.212967 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:33.513434 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:33.712424 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198990 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:33.714413 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:33.913495 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199082 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:33.915494 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:34.112716 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197222 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:34.114716 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:34.305879 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191163 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:34.307879 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:34.498559 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190680 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:34.500560 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:34.698672 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198112 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:34.704672 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:34.897099 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.192427 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:34.899099 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:35.088645 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189546 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:35.090645 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:35.276121 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.185476 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:35.278120 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:35.481425 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203305 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:35.484425 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:35.677325 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.192900 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:35.679406 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:35.881820 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202414 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:35.883820 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:36.089972 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206152 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:36.091973 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:36.294887 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202914 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:36.296858 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:36.488923 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.192065 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:36.490923 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:36.688131 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197208 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:36.690130 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:36.880002 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189872 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:36.882002 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:37.081567 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199565 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:37.083568 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:37.286034 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202466 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:37.288034 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:37.497290 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.209256 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:37.499290 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:37.759859 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.260569 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:37.761859 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:37.962462 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200603 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:37.964462 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:38.153191 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.188729 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:38.155187 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:38.349608 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.194421 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:38.351607 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:38.559509 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.207902 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:38.561508 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:38.767999 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206491 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:38.769999 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:38.958825 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.188826 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:38.960823 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:39.158204 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197381 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:39.160203 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:39.343427 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.183224 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:39.345426 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:39.539665 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.194239 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:39.541664 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:39.740829 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199165 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:39.742839 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:39.949671 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206832 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:39.951671 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:40.150593 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198922 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:40.152594 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:40.356323 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203729 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:40.359331 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:40.556145 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196814 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:40.558174 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:40.768852 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.210678 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:40.771851 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:40.973198 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.201347 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:40.975197 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:41.177335 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202138 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:41.179337 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:41.368345 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189008 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:41.370377 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:41.577158 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206781 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:41.579264 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:41.792474 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.213210 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:41.794474 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:41.996871 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202397 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:41.998967 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:42.188518 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189551 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:42.190519 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:42.384080 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.193561 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:42.387080 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:42.577966 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190886 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:42.579992 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:42.773985 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.193993 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:42.775985 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:42.975182 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199197 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:42.977215 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:43.177344 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200129 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:43.179341 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:43.376934 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197593 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:43.378939 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:43.582639 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203700 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:43.584667 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:43.777424 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.192757 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:43.780423 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:43.977198 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196775 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:43.979199 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:44.169124 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189925 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:44.172120 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:44.367926 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195806 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:44.369936 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:44.568545 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198609 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:44.570545 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:44.765817 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195272 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:44.767821 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:44.963635 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195814 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:44.965635 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:45.175053 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.209418 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:45.177052 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:45.377834 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200782 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:45.379836 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:45.578090 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198254 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:45.581091 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:45.784739 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203648 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:45.787740 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:45.991718 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203978 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:45.993719 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:46.192284 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198565 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:46.194283 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:46.400290 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206007 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:46.403325 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:46.605668 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202343 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:46.608661 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:46.804438 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.195777 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:46.806439 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:46.995824 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189385 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:46.997811 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:47.199878 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202067 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:47.202878 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:47.403380 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200502 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:47.405378 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:47.595209 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189831 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:47.597210 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:47.800366 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203156 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:47.802367 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:48.018166 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.215799 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:48.021166 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:48.231543 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.210377 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:48.233543 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:48.430094 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196551 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:48.432093 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:48.636442 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.204349 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:48.638444 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:48.823652 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.185208 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:48.825652 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:49.010084 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.184432 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:49.012207 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:49.208484 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196277 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:49.211484 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:49.472365 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.260881 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:49.475365 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:49.665554 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190189 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:49.667526 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:49.861266 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.193740 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:49.863272 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:50.108592 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.245320 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:50.110592 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:50.298484 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.187892 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:50.301566 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:50.493518 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191952 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:50.494490 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:50.699729 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.205239 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:50.702740 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:50.892125 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189385 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:50.894125 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:51.110668 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.216543 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:51.112668 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:51.319995 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.207327 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:51.322023 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:51.537544 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.215521 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:51.539544 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:51.729250 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.189706 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:51.731250 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:51.929129 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197879 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:51.931121 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:52.144915 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.213794 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:52.146915 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:52.337033 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190118 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:52.339032 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:52.533028 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.193996 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:52.536027 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:52.738550 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.202523 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:52.740556 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:53.005148 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.264592 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:53.007148 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:53.204731 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.197583 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:53.206732 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:53.412476 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.205744 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:53.414477 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:53.618213 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203736 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:53.620222 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:53.811566 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191344 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:53.813567 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:54.006053 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.192486 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:54.008053 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:54.193609 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.185556 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:54.195609 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:54.386870 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.191261 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:54.389871 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:54.589460 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.199589 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:54.591461 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:54.797779 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.206318 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:54.799779 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:55.003049 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203270 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:55.005058 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:55.208712 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.203654 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:55.211712 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:55.398930 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.187218 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:55.400929 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:55.589079 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.188150 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:55.591079 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:55.792063 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200984 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:55.794063 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:55.992254 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198191 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:55.994267 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:56.178069 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.183802 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:56.180070 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:56.378251 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.198181 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:56.381255 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:56.567875 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.186620 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:56.570875 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:56.771721 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.200846 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:56.773692 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:56.964204 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.190512 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:56.966205 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:57.162469 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.196264 сек.
+
+
+Начало выполнения тестовой функции: 2023-12-08 15:57:57.164469 сек. *
+- Имя теста (тестируемой функции): test_pair_conversion_no_amount_negative.
+- Имя коллекции (тестового класса): <class 'tests.exchangerate_negative.TestExchangeRateNegative'>.
+- Имя фикстуры: log_of_test.
+- Область видимости фикстуры: function.
+- Относительный путь к тестовому модулю: tests.exchangerate_negative.
+Окончание выполнения тестовой функции: 2023-12-08 15:57:57.373020 сек. **
+ИТОГО продолжительность теста test_pair_conversion_no_amount_negative: 0:00:00.208551 сек.
+

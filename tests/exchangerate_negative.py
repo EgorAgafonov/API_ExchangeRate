@@ -95,3 +95,52 @@ class TestExchangeRateNegative:
             print(f"\n{status}")
             print(f"\nОшибка 404 - сервер не может найти данные согласно запросу."
                   f"\nJSON объект с ключом ['error-type'] сервером не сформирован.")
+
+    # 3
+    # ВАЖНО:
+    @pytest.mark.skip(reason='Тест генерирует 2025 тест-кейсов, использовать по необходимости!')
+    @pytest.mark.three
+    @pytest.mark.parametrize("amount", ['', digits(), 1234567890, strings_generator(255), strings_generator(1000),
+                                        special_chars(), russian_chars(), russian_chars().upper(), chinese_chars()],
+                             ids=['empty string', '1234567890 string format', '1234567890 int format', 'string=255',
+                                  'string=1000', 'special chars', 'cyrillic chars', 'CYRILLIC CHARS', 'chinese chars'])
+    @pytest.mark.parametrize("target_code", ['', 'a', 'ab', 'abc', 'a'.upper(), 'ab'.upper(), 'abc'.upper(),
+                                             strings_generator(255), strings_generator(1000), special_chars(),
+                                             russian_chars(), russian_chars().upper(), chinese_chars(), digits(),
+                                             '3.14'], ids=['empty string', 'one str letter lower',
+                                                           'two str letters lower', 'three str letters lower',
+                                                           'one str letter upper', 'two str letters upper',
+                                                           'three str letters upper', 'string=255', 'string=1000',
+                                                           'special chars', 'cyrillic chars', 'CYRILLIC CHARS',
+                                                           'chinese chars', 'digits', '3.14(float)'])
+    @pytest.mark.parametrize("base_code", ['', 'a', 'ab', 'abc', 'a'.upper(), 'ab'.upper(), 'abc'.upper(),
+                                           strings_generator(255), strings_generator(1000), special_chars(),
+                                           russian_chars(), russian_chars().upper(), chinese_chars(), digits(),
+                                           '3.14'], ids=['empty string', 'one str letter lower',
+                                                         'two str letters lower', 'three str letters lower',
+                                                         'one str letter upper', 'two str letters upper',
+                                                         'three str letters upper', 'string=255', 'string=1000',
+                                                         'special chars', 'cyrillic chars', 'CYRILLIC CHARS',
+                                                         'chinese chars', 'digits', '3.14(float)'])
+    def test_pair_conversion_wth_amount_negative(self, base_code, target_code, amount):
+        """Негативный тест отправки GET-запроса для предоставления сведений о стоимости покупки целевой валюты за
+        указанное количество (amount) базовой валюты. С помощью фикстуры parametrize в параметры запроса передаются
+        заведомо не верифицированные значения переменных base_code, target_code, amount. Валидация негативного теста
+        успешна в случае, если статус ответа (status) содержит отрицательный код состояния равный 400, 403 или 404,
+        ответ с кодом 400 или 403 содержит JSON-объект с данными о причине(exception) отказа сервера."""
+
+        status, result = ER.conversion_of_currency_pair(api_key_valid, base_code, target_code, amount)
+
+        if status == 400:
+            assert result['error-type'] == "malformed-request" or 'inactive-account'
+            print(f"\n{status}")
+            print(f"{result['error-type']}")
+        elif status == 403:
+            assert result['error-type'] == "malformed-request" or 'inactive-account'
+            print(f"\n{status}")
+            print(f"{result['error-type']}")
+        else:
+            assert status == 404
+            print(f"\n{status}")
+            print(f"\nОшибка 404 - сервер не может найти данные согласно запросу."
+                  f"\nJSON объект с ключом ['error-type'] сервером не сформирован.")

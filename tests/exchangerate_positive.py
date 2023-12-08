@@ -37,7 +37,7 @@ class TestExchangeRatePositive:
         print(Fore.GREEN + Style.DIM + f"\n1 {result['base_code']} = {round(result['conversion_rate'],2)} "
                                        f"{result['target_code']}")
 
-    def test_pair_conversion_exchange(self, api_key=api_key_valid, base_code='USD', target_code='RUB', amount=150):
+    def test_pair_conversion_exchange(self, api_key=api_key_valid, base_code='USD', target_code='RUB', amount='125.5'):
         """Тест аналогичный тесту test_pair_conversion_no_amount с разницей в проверке функции расчета суммы продажи
         целевой валюты за указанное количество(amount_of_exchange) базовой валюты. Валидация теста успешна в случае,
         если ответ сервера содержит положительный HTTP-код состояния (200), ответ содержит JSON-объект с

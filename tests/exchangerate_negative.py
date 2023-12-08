@@ -51,34 +51,35 @@ class TestExchangeRateNegative:
             print(f"\n{result}")
             assert status == 404
 
-    @pytest.mark.parametrize("target_code", ['',
-                                             'a',
-                                             'ab',
-                                             'abc',
-                                             'a'.upper(),
-                                             'ab'.upper(),
-                                             'abc'.upper(),
-
-                                             strings_generator(255),
-                                             strings_generator(1000),
-                                             special_chars(),
-                                             russian_chars(),
-                                             russian_chars().upper(),
-                                             chinese_chars(),
-                                             digits(),
-                                             '3.14'], ids=['empty string', 'one str symbol lower', '', string=255', 'string=1000', 'special chars',
-                                                           'cyrillic chars', 'CYRILLIC CHARS', 'chinese chars',
-                                                           'digits', '3.14(float)'])
-    @pytest.mark.parametrize("base_code", [strings_generator(255),
+    @pytest.mark.parametrize("target_code", ['', 'a', 'ab', 'abc', 'a'.upper(), 'ab'.upper(), 'abc'.upper(),
+                                             strings_generator(255), strings_generator(1000), special_chars(),
+                                             russian_chars(), russian_chars().upper(), chinese_chars(), digits(),
+                                             '3.14'], ids=['empty string', 'one str letter lower',
+                                             'two str letters lower', 'three str letters lower',
+                                              'one str letter upper', 'two str letters upper',
+                                              'three str letters upper', 'string=255', 'string=1000',
+                                              'special chars', 'cyrillic chars', 'CYRILLIC CHARS',
+                                              'chinese chars', 'digits', '3.14(float)'])
+    @pytest.mark.parametrize("base_code", ['',
+                                           'a',
+                                           'ab',
+                                           'abc',
+                                           'a'.upper(),
+                                           'ab'.upper(),
+                                           'abc'.upper(),
+                                           strings_generator(255),
                                            strings_generator(1000),
                                            special_chars(),
                                            russian_chars(),
                                            russian_chars().upper(),
                                            chinese_chars(),
                                            digits(),
-                                           '3.14'], ids=['string=255', 'string=1000', 'special chars',
-                                                         'cyrillic chars', 'CYRILLIC CHARS', 'chinese chars',
-                                                         'digits', '3.14(float)'])
+                                           '3.14'], ids=['empty string', 'one str letter lower',
+                                                         'two str letters lower', 'three str letters lower',
+                                                         'one str letter upper', 'two str letters upper',
+                                                         'three str letters upper', 'string=255', 'string=1000',
+                                                         'special chars', 'cyrillic chars', 'CYRILLIC CHARS',
+                                                         'chinese chars', 'digits', '3.14(float)'])
     def test_pair_conversion_no_amount_negative(self, base_code, target_code):
         """Негативный тест отправки GET-запроса для предоставления сведений об отношении обменного курса целевой валюты
         (target_code) по отношению к одной единице базовой валюте(base_code) без использования в запросе параметра
@@ -102,4 +103,3 @@ class TestExchangeRateNegative:
             print(f"\n{status}")
             print(f"\nОшибка 404 - сервер не может найти данные согласно запросу."
                   f"\nJSON объект с ключом ['error-type'] сервером не сформирован.")
-

@@ -16,11 +16,14 @@ class TestExchangeRatePositive:
 
         status, result = ER.get_exchange_rate(api_key, base_code)
 
+        currencies = result['conversion_rates'].items()
+        for key in currencies:
+            print(f"{key}")
+
         assert status == 200, f"\nЗапрос отклонен, код ответа: {status}. Проверьте параметры запроса."
         assert result["result"] == "success", f"\nЗапрос отклонен, код ответа: {status}. Проверьте параметры запроса."
         assert result["base_code"] == base_code
         assert result['conversion_rates']["USD"] < result['conversion_rates']['RUB'], "Ущипните себя и всё проверьте;)"
-        print(f"\n{result['conversion_rates']['USD']} {base_code} == {result['conversion_rates']['USD']} {base_code}")
 
     def test_pair_conversion_no_exchange(self, api_key=api_key_valid, base_code='USD', target_code='RUB'):
         """Тест проверки отправки GET-запроса для предоставления сведений об отношении обменного курса целевой валюты

@@ -25,7 +25,7 @@ def duration_of_collection(request, filename=filename):
                           f"{end_time - start_time} сек.\n\n\n")
 
 
-@pytest.fixture(scope='function', autouse=True)
+@pytest.fixture(scope='function')
 def duration_of_test(request):
     start_time = datetime.now()
     print(Fore.BLACK + Style.DIM + Back.WHITE + f'<Начало выполнения тестовой функции: {start_time} сек.>')
@@ -37,7 +37,7 @@ def duration_of_test(request):
     print(Fore.RESET + Style.RESET_ALL + Back.RESET + f"\n")
 
 
-@pytest.fixture(scope='function', autouse=True)
+@pytest.fixture(scope='function')
 def introspection_of_test(request):
     yield
     print(f'\n- Имя теста (тестируемой функции): {request.function.__name__};')
